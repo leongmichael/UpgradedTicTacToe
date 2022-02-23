@@ -12,10 +12,10 @@ Game based off this [video](https://www.reddit.com/r/nextfuckinglevel/comments/n
 
 <table>
   <tr>
-    <td><img src="assets/home.png" alt="home" width="270" height="480"/></td>
-    <td><img src="assets/gamedemo1.png" alt="gamedemo1" width="270" height="480"/></td>
-    <td><img src="assets/gamedemo2.png" alt="gamedemo2" width="270" height="480"/></td>
-    <td><img src="assets/howtoplay.png" alt="howtoplay" width="270" height="480"/></td>
+    <td><img src="assets/home.png" alt="home" width="200" height="400"/></td>
+    <td><img src="assets/gamedemo1.png" alt="gamedemo1" width="200" height="400"/></td>
+    <td><img src="assets/gamedemo2.png" alt="gamedemo2" width="200" height="400"/></td>
+    <td><img src="assets/howtoplay.png" alt="howtoplay" width="200" height="400"/></td>
   </tr>
  </table>
 
