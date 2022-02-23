@@ -1,4 +1,4 @@
-# <img src="assets/favicon.png" alt="drawing" width="40" height="40"/> UpgradedTicTacToe G
+# <img src="assets/favicon.png" alt="drawing" width="40" height="40"/> UpgradedTicTacToe
 
 Mobile app created with React Native and Expo.
 
