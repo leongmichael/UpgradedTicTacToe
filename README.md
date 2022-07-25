@@ -16,5 +16,3 @@ Game based off this [video](https://www.reddit.com/r/nextfuckinglevel/comments/n
   <img src="assets/gamedemo2.png" alt="gamedemo2" width="200" height="400"/>
   <img src="assets/howtoplay.png" alt="howtoplay" width="200" height="400"/>
 </div>
-
-[comment]: <> (https://stackoverflow.com/questions/24319505/how-can-one-display-images-side-by-side-in-a-github-readme-md#:~:text=%23%23%23%23%20Flutter%20App%20Screenshots,td%3E%0A%20%20%3C/tr%3E%0A%20%3C/table%3E    image formatting)
