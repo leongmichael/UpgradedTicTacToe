@@ -4,9 +4,6 @@ import { StyleSheet, Text, View, Image, TouchableOpacity, Alert, Button } from '
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
-
-
-
 export default class Game extends React.Component {
   
   constructor(props) {
@@ -17,7 +14,7 @@ export default class Game extends React.Component {
       [0, 0, 0],
       [0, 0, 0],
       [0, 0, 0]
-],
+    ],
       currentPlayer: 1,
 
       orangePieces: ["o1", "o1", "o2", "o2", "o3", "o3"],
@@ -230,12 +227,8 @@ export default class Game extends React.Component {
       default: return <View></View>
     }
   }
-
-
   render() {
-
     const {navigate} = this.props.navigation;
-
     return (
       <View style={styles.container}> 
         <Text style={[styles.turnText, {color: "#ff0000"}]}>Curent Turn:</Text>
@@ -265,8 +258,6 @@ export default class Game extends React.Component {
         <View style={{paddingTop:25}}/>
         <Button title="Restart Game" onPress={this.onNewGamePress}/>
         <Button title="Back Home" onPress={() => navigate('Home')}/>
-        
-        
   
       </View>
     );
