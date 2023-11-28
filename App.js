@@ -29,7 +29,4 @@ export default class App extends React.Component {
 
 }
 
-const styles = StyleSheet.create({
-  
-  
-});
+const styles = StyleSheet.create({});
